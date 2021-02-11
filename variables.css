@@ -1,0 +1,21 @@
+:root{
+    /* margins (mb - margin-bottom) */
+    --mb0:5px;
+    --mb1:15px;
+    --mb2:30px;
+    --mb3:45px;
+    --mb4:60px;
+    --mb5:75px;
+
+    /* negative values */
+    --mb-0:-5px;
+    --mb-1:-15px;
+    --mb-2:-30px;
+}
+
+@media (max-width:991px){
+    :root{
+        --mb4:var(--mb3);
+        --mb5:var(--mb3);
+    }
+}
