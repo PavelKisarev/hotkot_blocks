@@ -11,6 +11,13 @@
     --mb-0:-5px;
     --mb-1:-15px;
     --mb-2:-30px;
+
+    /* title font sizes */
+    --fs-h1:44px;
+    --fs-h2:36px;
+    --fs-h3:28px;
+    --fs-h4:20px;
+    --fs-descr:18px;
 }
 
 @media (max-width:991px){

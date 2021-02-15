@@ -1,0 +1,25 @@
+.section-title{
+    max-width: 800px;
+    margin: 0 auto var(--mb2);
+    text-align: center;
+}
+
+.section-title__h1{
+    font-size: var(--fs-h1);
+    line-height: 1.3;
+}
+.section-title__h2{
+    font-size: var(--fs-h2);
+    line-height: 1.3;
+}
+.section-title__h3{
+    font-size: var(--fs-h3);
+    line-height: 1.3;
+}
+.section-title__h4{
+    font-size: var(--fs-h4);
+    line-height: 1.3;
+}
+.section-title__descr{
+    font-size: var(--fs-descr);
+}
